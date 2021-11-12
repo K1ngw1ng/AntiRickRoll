@@ -9,7 +9,15 @@
         "2ocykBzWDiM",
         "j5a0jTc9S10",
         "HPk-VhRjNI8"
-    ];
+        "iik25wqIuFo",
+        "ub82Xb1C8os",
+        "0lQqK-ofK3M",
+        "YvpIyhmpD54",
+        "rTgj1HxmUbg",
+        "QDia3e12czc",
+        "xuCO7-DLCaA",
+        
+   ];
 
     chrome.storage.local.get(['disabled', 'bypassed', 'total'], res => {
         // Check if blocking is enabled and if url in blocked links
